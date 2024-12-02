@@ -1,0 +1,6 @@
+<svg>
+    <ellipse cx="100" cy="100" rx="20" ry="10"
+    style="fill: none;
+    stroke: #ff0000;
+    "/>
+</svg>
